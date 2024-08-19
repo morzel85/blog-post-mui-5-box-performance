@@ -1,0 +1,15 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+#root {
+  display: flex;
+}
+
+.MuiFormHelperText-root {
+  position: absolute;
+  bottom: -1.3rem;
+  white-space: nowrap;
+}
