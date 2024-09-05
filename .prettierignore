@@ -1,4 +1,8 @@
-/*.*
+eslint.config.js
+package-lock.json
+package.json
+tsconfig.json
+vite.config.ts
 /.vscode
 /build
 /node_modules

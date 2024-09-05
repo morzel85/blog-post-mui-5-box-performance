@@ -78,7 +78,9 @@ export const App = () => {
         <Link href="http://morzel.net" target="_blank" rel="noreferrer">
           morzel.net
         </Link>{' '}
-        blog post
+        <Link href="https://en.morzel.net/post/material-ui-5-box-performance" target="_blank" rel="noreferrer">
+          blog post
+        </Link>
       </Box>
     </Box>
   );
